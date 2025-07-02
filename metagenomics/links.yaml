@@ -6,11 +6,11 @@ Baboon:
     r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR174/005/SRR1747045/SRR1747045_1.fastq.gz
     analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00520894?type=pie#taxonomic
 
-Human:
+Human 2:
     r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR177/006/SRR17798006/SRR17798006_1.fastq.gz
     analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00793343?type=pie#taxonomic
 
-Human 2:
+Human:
     r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR114/004/ERR11488304/ERR11488304_1.fastq.gz
     analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00694198?type=pie#taxonomic
 
