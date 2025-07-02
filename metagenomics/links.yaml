@@ -1,0 +1,17 @@
+Screaming hairy armadillo:
+  - mgnify: https://www.ebi.ac.uk/metagenomics/studies/MGYS00002673#overview
+  r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR328/ERR328064/ERR328064.fastq.gz
+  r2:
+  analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00788295?type=pie#taxonomic
+
+Baboon:
+  - mgnify: a
+  r1: a
+  r2: a
+  analysis: a
+
+Baikal Rift Zone hot springs:
+  - mgnify: https://www.ebi.ac.uk/metagenomics/studies/MGYS00005003#overview
+  r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR642/004/SRR6429754/SRR6429754_1.fastq.gz
+  r2: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR642/004/SRR6429754/SRR6429754_2.fastq.gz
+  analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00375567?type=pie#taxonomic
