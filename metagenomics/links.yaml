@@ -1,17 +1,22 @@
-Screaming hairy armadillo:
-    mgnify: https://www.ebi.ac.uk/metagenomics/studies/MGYS00002673#overview
-    r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR328/ERR328064/ERR328064.fastq.gz
-    r2: 
-    analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00788295?type=pie#taxonomic
+Mouse:
+    r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR569/002/SRR5690822/SRR5690822_1.fastq.gz
+    analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00789462?type=pie#taxonomic
 
 Baboon:
-    mgnify:
-    r1:
-    r2:
-    analysis:
+    r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR174/005/SRR1747045/SRR1747045_1.fastq.gz
+    analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00520894?type=pie#taxonomic
+
+Human:
+    r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR177/006/SRR17798006/SRR17798006_1.fastq.gz
+    analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00793343?type=pie#taxonomic
+
+Human 2:
+    r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/ERR114/004/ERR11488304/ERR11488304_1.fastq.gz
+    analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00694198?type=pie#taxonomic
 
 Baikal Rift Zone hot springs:
     mgnify: https://www.ebi.ac.uk/metagenomics/studies/MGYS00005003#overview
     r1: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR642/004/SRR6429754/SRR6429754_1.fastq.gz
     r2: ftp://ftp.sra.ebi.ac.uk/vol1/fastq/SRR642/004/SRR6429754/SRR6429754_2.fastq.gz
     analysis: https://www.ebi.ac.uk/metagenomics/analyses/MGYA00375567?type=pie#taxonomic
+
